@@ -1,4 +1,4 @@
-﻿# PATIKA.DEV / HTML - Ödev 3
+﻿# Başlangıç Seviye Frontend Web Development Patikası / HTML - Ödev 3 [www.patika.dev]
 
 Ödev Tanımı : 
 
