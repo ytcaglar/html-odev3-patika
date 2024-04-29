@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    margin-right: 100px;
+}
+
+header{
+    margin-right: 80px;
+}
+
+.title-background{
+    background-color: brown;
+    color: white;
+    display: inline;
+    border-radius: 12px;
+}
+
+.text-bold-red{
+    font-weight: bold;
+    color: darkred;
+}
+
+#right-side{
+    float: right;
+}
+
+#last{
+    float: right;
+    font-size: x-large;
+    margin-right: 150px;
+}
